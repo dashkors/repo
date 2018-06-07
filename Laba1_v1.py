@@ -28,7 +28,6 @@ class Iterator:
 
 
 def main():
-    print ('гууд')
     iterator = Iterator()
     iterator.iterateAni()
 
