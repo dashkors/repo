@@ -23,7 +23,7 @@ class Iterator:
         listname = ["Аист", "Белый слон", "Шимпанзе", "Лев", "Золотая рыбка"]
         listtype = ["bird", "beast", "beast", "beast", "fish"]
         for i in range(0, 4):
-            ani = Animals(listname[i] , listtype[i])
+            ani = Animals(listname[i], listtype[i])
             ani.printinfo()
 
 
